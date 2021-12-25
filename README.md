@@ -1,2 +1,2 @@
 # landing-page
-Project: Landing Page
+Project: Landing Page Website Template
