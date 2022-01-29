@@ -4,7 +4,6 @@ Live Webpage: [hosja83.github.io/landing-page/](https://hosja83.github.io/landin
 ## Tools
 Languages & Web Technologies
 - HTML
-- JavaScript
 - CSS
 
 IDE
