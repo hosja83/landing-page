@@ -248,3 +248,8 @@ button.bottom-button {
     color: #E5E7EB;
     padding: 30px;
 }
+
+.github-logo {
+    font-size: 24px !important;
+    margin-left: 2px;
+}
