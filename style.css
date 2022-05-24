@@ -162,10 +162,13 @@ button.hero-button {
 }
 
 .lower-mid {
-    margin-top: 125px;
-    margin-bottom: 100px;
     display: flex;
     flex-direction: column;
+    gap: 20px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
     background-color: #E5E7EB;
     color: black;
     max-width: 812px;
