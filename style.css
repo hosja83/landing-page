@@ -119,6 +119,7 @@ button.hero-button {
 .mid-header {
     display: flex;
     justify-content: center;
+    text-align: center;
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
